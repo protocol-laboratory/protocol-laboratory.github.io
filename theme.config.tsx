@@ -12,6 +12,7 @@ const config: DocsThemeConfig = {
   docsRepositoryBase: 'https://github.com/protocol-laboratory/protocol-laboratory.github.io',
   head: (
       <>
+        <meta name="google-site-verification" content="v7Vy3hG5tgVIOBCRRffGZ8rZHhqX_UbT9IqluA_SHZo" />
       </>
   ),
   footer: {
